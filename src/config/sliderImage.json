@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "image":"https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home-inside-3.jpg"
+    },
+    {   
+        "id":2,
+        "image":"https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home-inside-4.jpg"
+    },
+    {
+        "id":3,
+        "image":"https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home-inside-2.jpg"
+    },
+    {
+        "id":4,
+        "image":"https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home-inside-16.jpg"
+    },
+    {
+        "id":5,
+        "image":"https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home-inside-9.jpg"
+    }
+]
