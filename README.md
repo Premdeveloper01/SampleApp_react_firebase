@@ -14,6 +14,7 @@ In this application user can search properties which application is fetching fro
 - Create firebase account  
 - update credential in file path: \src\components\FireStore.js
 - npm install
+- npm i firebase
 - npm start
 
 ## App can run on localhost:3000
